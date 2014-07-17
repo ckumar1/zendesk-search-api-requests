@@ -1,0 +1,67 @@
+{
+	"id": "36e1387f-b06c-dcac-825c-266324dc0610",
+	"name": "Ticket Suggestion App",
+	"description": "API calls relevant to developing the Ticket Suggestion App",
+	"order": [],
+	"folders": [
+		{
+			"id": "4fe1d3dc-60a1-7f13-8624-f3123d38fdfe",
+			"name": "Descriptions",
+			"description": "",
+			"order": [],
+			"collection_name": "Ticket Suggestion App",
+			"collection_id": "36e1387f-b06c-dcac-825c-266324dc0610"
+		},
+		{
+			"id": "ba342f4a-a4f5-8104-2c82-0f3b2ec41883",
+			"name": "Searching by Date",
+			"description": "",
+			"order": [],
+			"collection_name": "Ticket Suggestion App",
+			"collection_id": "36e1387f-b06c-dcac-825c-266324dc0610"
+		},
+		{
+			"id": "cb94657d-5820-606c-957e-b1a0d74e6814",
+			"name": "Sorting via API parameters",
+			"description": "",
+			"order": [],
+			"collection_name": "Ticket Suggestion App",
+			"collection_id": "36e1387f-b06c-dcac-825c-266324dc0610"
+		},
+		{
+			"id": "379c7321-d602-c4db-8fa6-aec92136c032",
+			"name": "Sorting via query keywords",
+			"description": "",
+			"order": [],
+			"collection_name": "Ticket Suggestion App",
+			"collection_id": "36e1387f-b06c-dcac-825c-266324dc0610"
+		},
+		{
+			"id": "1ac068ba-4bef-2bc2-77ae-a7219bdf1718",
+			"name": "Status",
+			"description": "",
+			"order": [],
+			"collection_name": "Ticket Suggestion App",
+			"collection_id": "36e1387f-b06c-dcac-825c-266324dc0610"
+		},
+		{
+			"id": "abad0e62-d100-3502-de08-67cffc57dae8",
+			"name": "Tags (About field)",
+			"description": "",
+			"order": [],
+			"collection_name": "Ticket Suggestion App",
+			"collection_id": "36e1387f-b06c-dcac-825c-266324dc0610"
+		},
+		{
+			"id": "c04f0dc0-ab5f-4bd4-b71c-3ac0b5ce156f",
+			"name": "Ticket types",
+			"description": "",
+			"order": [],
+			"collection_name": "Ticket Suggestion App",
+			"collection_id": "36e1387f-b06c-dcac-825c-266324dc0610"
+		}
+	],
+	"timestamp": 1405629055280,
+	"synced": false,
+	"requests": []
+}
